@@ -4,7 +4,8 @@ This project is a **comprehensive Power BI dashboard** developed to analyze and 
 
 ---
 
-<img width="549" alt="image" src="https://github.com/user-attachments/assets/08491b73-b03b-4d35-afd4-a0445a1d1b70" />
+<img width="868" alt="image" src="https://github.com/user-attachments/assets/618e72a0-9ec7-4927-af08-1a889ce2eca3" />
+
 
 
 Access the live dashboard here:  
